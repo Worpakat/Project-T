@@ -6,6 +6,7 @@
  Then took a break because of an other project. But I want to continue on this soon.
 
 # README BEFORE USE
+For run program: Run "main.py"
 Because of this is a verry early project. Can be a lot of problems and bugs.
 One of them: If you make a search second or third time after running the program, any bug may occur and crash program. In this case shut down program and re-open it.
 Some search terms may not work as intended.
